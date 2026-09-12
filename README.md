@@ -142,3 +142,27 @@ git commit -m "feat: implement authenticated event CRUD"
 git push
 
 If we complete that tonight, the backend is essentially finished.
+
+
+
+------------------TECH STACK---------------------
+FRONTEND
+React
+TypeScript
+Vite
+CSS
+React Router
+Axios
+
+        ↓ REST API
+
+BACKEND
+NestJS
+TypeScript
+TypeORM
+JWT
+bcrypt
+
+        ↓
+
+PostgreSQL
